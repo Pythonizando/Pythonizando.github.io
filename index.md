@@ -129,6 +129,16 @@
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2>EU User Consent and Revocation</h2>
+<p>If You are located in the European Economic Area (EEA), the United Kingdom, or Switzerland, certain data protection laws apply to Your use of the Service. We use Google AdMob to serve advertisements. Google and its partners may use identifiers and cookies to show You personalized ads based on Your interests.</p>
+
+<h3>Managing Your Privacy Preferences</h3>
+<p>In accordance with Google's Privacy & Messaging policies, We provide a mechanism for You to grant or withdraw Your consent for data collection and personalized advertising at any time.</p>
+<ul>
+    <li><strong>Initial Consent:</strong> When You first access the Application from a supported region, You will be presented with a consent form managed by a Google-certified Consent Management Platform (CMP).</li>
+    <li><strong>Revocation of Consent:</strong> You have the right to change Your mind and revoke Your consent at any time. You can access Your privacy settings and re-open the consent form through the <strong>"Privacy Settings"</strong> or <strong>"Consent Preferences"</strong> link located within the Application's settings menu.</li>
+</ul>
+<p>Once You revoke Your consent, the Application will display the consent form again, allowing You to update Your preferences or opt-out of personalized advertising entirely.</p>
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
